@@ -12,7 +12,7 @@
   "dependencies": {
     "react": "18.1.0",
     "react-native": "0.70.4",
-    "react-native-nfc-card-reader": "github:jackbayliss/react-native-nfc-card-reader#gradle7.2"
+    "react-native-nfc-card-reader": "^1.0.6"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
