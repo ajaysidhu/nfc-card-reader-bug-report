@@ -10,9 +10,11 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "install": "^0.13.0",
+    "npm": "^8.19.2",
     "react": "18.1.0",
     "react-native": "0.70.4",
-    "react-native-nfc-card-reader": "github:jackbayliss/react-native-nfc-card-reader#gradle7.0"
+    "react-native-nfc-card-reader": "github:jackbayliss/react-native-nfc-card-reader#gradle7.2"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
